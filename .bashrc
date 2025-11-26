@@ -1,0 +1,2 @@
+export SEPOLIA_RPC_URL="https://sepolia.infura.io/v3/7375ea710dbe40a0af798d4562358d34"
+export PRIVATE_KEY="0xcd5634f1dbf8b9f4629365a2eab2eab277cd5f3be9e70446a47e8aa61e310ffc"
